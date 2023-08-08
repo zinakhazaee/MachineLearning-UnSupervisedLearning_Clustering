@@ -1,0 +1,404 @@
+Id,SN,Player Name,POS,Height,Nationality
+P_142950,7,Aren Davoudichegani,PG,186,IRI
+P_142957,15,Hamed EHaddadi,C,218,IRI
+P_152307,22,Nick Fazekas,C,207,JPN
+P_152309,12,CJ Giles,C,211,BRN
+P_152335,8,Saeid Davarpanah,SF,190,IRI
+P_152341,12,Asghar Kardoust,C,210,IRI
+P_156005,10,Kosuke Takeuchi,PF,206,JPN
+P_156348,14,Rob Loe,C,211,NZL
+P_156434,9,Corey Webster,SG,189,NZL
+P_157348,13,Dion  Prewster,SG,195,NZL
+P_158488,7,Mahdi Kamrani,PG,186,IRI
+P_159635,35,Clinton Harold Steindl,SF,200,AUS
+P_160109,10,Peng Zhou,PF,206,CHN
+P_161241,24,Dmitriy Gavrilov,C,200,KAZ
+P_161534,15,Zaid Abbas,PF,207,JOR
+P_161535,23,Mousa Alawadi,SG,192,JOR
+P_161607,21,Kelly Williams,C,204,PHI
+P_169001,13,Mohammad Hussein,C,212,JOR
+P_169002,10,Ahmad Obeid,PF,195,JOR
+P_173478,8,Matthew Dellavedova,PG,191,AUS
+P_173563,13,Mohammad Jamshidi,PF,185,IRI
+P_173564,14,Arsalan Kazemi,PF,202,IRI
+P_173565,77,Mohammad Hassanzadeh,PF,201,IRI
+P_173821,9,Tarek Aljabi,SG,183,SYR
+P_173826,8,Majd arbasha,SG,187,SYR
+P_173838,12,Abdulwahab Alhamwi,C,220,SYR
+P_173846,15,Hani Adribe,PF,204,SYR
+P_174028,17,Alexandr Zhigulin,PF,202,KAZ
+P_176647,9,Vishesh Bhriguvanshi,PG,192,IND
+P_176657,25,Japeth Aguilar,PF,208,PHI
+P_176774,8,Mitchell Norton,PG,186,AUS
+P_176809,20,Jordan Ngatai,SF,196,NZL
+P_176886,44,Ahmad Al Dwairi,C,210,JOR
+P_178119,5,Amir Saoud,SG,187,LBN
+P_181087,6,Makoto Hiejima,SG,191,JPN
+P_181208,25,Ethan Rusbatch,SG,196,NZL
+P_181266,22,Xuhang Zhu,PF,205,CHN
+P_181269,6,Ailun Guo,PG,192,CHN
+P_181272,14,Zhelin Wang,C,212,CHN
+P_182217,21,Rouzbeh Arghavan,PF,214,IRI
+P_182457,0,Mahmoud Abdeen,PG,192,JOR
+P_182704,43,Yuya Nagayoshi,PF,198,JPN
+P_182705,88,Tenketsu Harimoto,SF,198,JPN
+P_182709,6,Shaim Kuanov,PG,181,KAZ
+P_182909,5,Sajjad Mashayekhi,PG,180,IRI
+P_182915,21,Arman Zangeneh,PF,205,IRI
+P_182998,1,Bobby Ray Parks,PG,193,PHI
+P_183824,1,Reuben Te Rangi,PF,198,NZL
+P_184255,42,Isaac Fotu,PF,203,NZL
+P_185134,24,Dwight Ramos,PG,193,PHI
+P_186026,2,Devon Dwayne Chism,PF,203,BRN
+P_186382,3,Ater Majok,C,210,LBN
+P_187356,2,Ayman Belals Almuwallad,PG,189,KSA
+P_188252,10,Mitchell McCarron,PG,189,AUS
+P_188536,12,Quan Gu,PF,201,CHN
+P_188664,89,Chao Hao Chen,C,200,TPE
+P_188665,42,Shih-En Fan,PF,198,TPE
+P_192186,2,Dar Tucker,SG,190,JOR
+P_192465,11,Ali Haidar,C,206,LBN
+P_192479,27,Yi-Hsiang Chou,PF,191,TPE
+P_192487,25,Lester Prosper,C,207,INA
+P_192494,51,Takatoshi Furukawa,SF,190,JPN
+P_192573,10,Amritpal Singh Singh,C,208,IND
+P_192578,5,Husain Altawash,PG,174,BRN
+P_192581,54,Hesham Sarhan,PG,180,BRN
+P_192584,7,Maitham Isa,PG,183,BRN
+P_192587,12,Ahmed Akber,C,199,BRN
+P_192591,23,Mohammed Hamooda,PF,198,BRN
+P_192592,11,Mohamed Qurban,PF,0,BRN
+P_192692,7,Ahmad Alhamarsheh,SF,196,JOR
+P_192905,7,Jordan Timothy Heading,PG,188,PHI
+P_193395,32,Justin Donta Brownlee,PF,200,PHI
+P_194467,16,Tohi Smith-Milner,PF,206,NZL
+P_195576,4,Jiwei Zhao,PG,185,CHN
+P_195577,15,Qi Zhou,C,212,CHN
+P_195981,55,Dejun Han,C,215,CHN
+P_197007,8,Behnam Yakhchali,PG,190,IRI
+P_197011,8,Muhamad Sandy Ibrahim Aziz,SG,188,INA
+P_197014,15,Palpreet Singh Brar,C,210,IND
+P_197016,2,Yuki Togashi,PG,167,JPN
+P_197034,14,Angus John Brandt,C,208,AUS
+P_197075,34,Ange Kouame,C,211,PHI
+P_198527,13,Gabriel Maurice Philippe Salibi,PG,201,LBN
+P_198820,4,Emmett Naar,PG,187,AUS
+P_198848,15,Tom Vodanovich,PF,201,NZL
+P_201752,13,Sharif Al Osh,PG,184,SYR
+P_202961,23,Keanu Pinder,PF,203,AUS
+P_203152,11,Mohammad Yousof Vand,PF,202,IRI
+P_203155,1,Rasoul Mozafari,PG,189,IRI
+P_203283,5,Qian Wu,PG,190,CHN
+P_203290,8,Rui Zhao,PG,195,CHN
+P_203922,28,Kemal Canbolat,C,211,SYR
+P_205270,3,Dejan Vasiljevic,PG,187,AUS
+P_205287,21,Roman Marchuk,PF,198,KAZ
+P_205379,25,Kengo Nomoto,PF,201,JPN
+P_205438,15,June Mar Fajardo,C,208,PHI
+P_205451,7,Nikolay BAZHIN,PF,195,KAZ
+P_205454,4,Meisam Mirzaei,C,204,IRI
+P_205459,25,Maxim Marchuk,SG,196,KAZ
+P_205460,10,Rustam Murzagaliyev,PG,192,KAZ
+P_205498,5,Mohamed Ebrahim,PG,185,BRN
+P_205501,6,Mohamed Kowaid,SF,189,BRN
+P_205503,10,Subah Azzam,PF,190,BRN
+P_205504,55,Ahmed Alderazi,PG,171,BRN
+P_205505,34,Ali Hasan,C,194,BRN
+P_205509,9,Jaber Kabe,SG,192,KSA
+P_205510,5,Marzouq Almuwallad,PG,183,KSA
+P_205511,7,Mohammed Alsager,PG,182,KSA
+P_205512,8,Fahad Belal,SG,186,KSA
+P_205513,15,Nassir Abo Jalas,PF,196,KSA
+P_205515,13,Ahmed Almukhtar,SF,193,KSA
+P_205516,4,Mohammed Almarwani,C,206,KSA
+P_205517,6,Mathna Almarwani,PF,192,KSA
+P_205673,2,Izayah Le'afa,PG,188,NZL
+P_205891,7,Isaac Bradley Humphries,C,213,AUS
+P_205893,9,William McDowell-White,PG,190,AUS
+P_205900,14,Jackson Thomas White,PG,195,AUS
+P_205932,11,Joe Cook-Green,PG,183,NZL
+P_205936,7,Nikau McCullough,PG,189,NZL
+P_205938,33,Samuel Timmins,C,211,NZL
+P_205960,10,Richard Rodger,PG,188,NZL
+P_206040,8,Tai Hikuroa Wynyard,C,205,NZL
+P_206309,21,Jinqiu Hu,C,210,CHN
+P_206314,28,Zijie Shen,C,211,CHN
+P_206320,27,Hao Fu,PF,208,CHN
+P_206450,47,Ruslan Aitkali,SF,202,KAZ
+P_206452,45,Andrey Litvinenko,PF,191,KAZ
+P_206498,86,Amirhossein Azari,SF,194,IRI
+P_206509,51,Salar Monji,C,207,IRI
+P_206531,14,Sunil .,SG,185,IND
+P_208655,23,Tofek Saleh,PF,205,SYR
+P_209340,11,Nick Kay,PF,206,AUS
+P_210404,7,Andakara Prastawa Dhyaksa,PG,172,INA
+P_212206,7,Minghui Sun,PG,187,CHN
+P_212235,20,Szu-Yao Sun,C,207,TPE
+P_212240,12,Kuei-Yu Chou,C,197,TPE
+P_212243,95,Wei Chen Chou,PF,188,TPE
+P_212250,77,Ibrahim Hamati,SG,185,JOR
+P_212281,0,Thirdy Ravena,PG,189,PHI
+P_212293,4,Ali Ali,PF,198,BRN
+P_212358,17,Navid Rezaeifar,PF,188,IRI
+P_212464,3,Luke Evans,C,203,JPN
+P_213863,6,Jayden Bezzant,PG,188,NZL
+P_213917,22,Jack McVeigh,SF,203,AUS
+P_213920,25,Rhys Anthony Vague,PF,206,AUS
+P_213993,22,Hyrum Harris,PF,198,NZL
+P_214673,4,Seiya Ando,PG,181,JPN
+P_215434,12,Todd Blanchfield,SF,200,AUS
+P_216274,3,Finn Delany,PF,200,NZL
+P_216417,18,Troy Rosario,SF,200,PHI
+P_216418,8,Scottie Thompson,SG,186,PHI
+P_216419,15,Kiefer Ravena,PG,185,PHI
+P_216435,12,Muhamad Arighi Hadran Noor,SG,182,INA
+P_216439,24,Agassi Yeshe Goantara,SG,187,INA
+P_216458,27,Samjosef Belangel,PG,177,PHI
+P_216467,9,Sean Dave Ildefonso,PF,183,PHI
+P_216471,1,Juan Gomez De Liano,PG,180,PHI
+P_216564,31,Navid Khajehzadeh,PF,190,IRI
+P_217006,22,Malek Kanaan,PG,185,JOR
+P_217230,20,Wael Arakji,PG,193,LBN
+P_217231,7,Nadim Issa,SG,185,SYR
+P_217232,1,Anthouny Bakar,SF,198,SYR
+P_217233,21,Omar Cheikh Ali,PF,204,SYR
+P_217716,51,Shea Ili,PG,184,NZL
+P_217873,13,Samson James Froling,C,212,AUS
+P_217908,7,Alexander Mudronja,PG,196,AUS
+P_217912,9,Kyle Luke Zunic,PG,188,AUS
+P_219166,42,Dan Fotu,SF,203,NZL
+P_219167,3,Brayden Inger,SF,203,NZL
+P_219172,2,Taane Samuel,PF,200,NZL
+P_219173,21,Sam Waardenburg,PF,208,NZL
+P_219857,6,Jordan Clarkson,SG,198,PHI
+P_220445,18,Yudai Baba,SG,195,JPN
+P_220467,18,Aravind Annadurai,PF,203,IND
+P_220590,12,Yousef AbuWazaneh,C,200,JOR
+P_220722,31,William Artino,C,211,TPE
+P_220768,55,Daichi Taniguchi,PF,201,JPN
+P_221966,25,Yibo Wang,PG,185,CHN
+P_221971,30,Jie Xu,PG,180,CHN
+P_222002,34,Aldy Izzatur Rachman,SG,191,INA
+P_222066,4,Yu-Wei Chen,PG,183,TPE
+P_222071,9,Wei-Chieh Tang,SF,190,TPE
+P_222072,15,Chen-Ya Chang,PF,195,TPE
+P_222073,29,Chieh-Yu Han,PF,195,TPE
+P_222082,19,Yudai Nishida,SG,190,JPN
+P_222083,71,Soichiro Inoue,PF,201,JPN
+P_222126,34,Noman Ahmed Khan,C,205,BRN
+P_222139,7,Karim Zeinoun,PG,188,LBN
+P_222203,8,Kanwar Gurbaz Singh Sandhu,SG,185,IND
+P_222483,15,Vincent Rivaldi Kosasih,C,203,INA
+P_222486,8,Jad Khalil,PG,185,LBN
+P_223202,7,Thon Maker,PF,216,AUS
+P_224138,29,Shuaipeng Cheng,SG,191,CHN
+P_224173,11,Yudha Saputera,PG,175,INA
+P_224211,7,Sean Matthew MacDonald,PG,187,AUS
+P_224338,1,Amin Abu Hawwas,SG,194,JOR
+P_224423,16,Roger Pogoy,SG,182,PHI
+P_224473,99,Oleg Balashov,PG,185,KAZ
+P_224700,9,Nathan Sobey,SG,190,AUS
+P_225383,32,Avi Koki Schafer,PF,206,JPN
+P_225587,23,Mingxuan Hu,PG,191,CHN
+P_225791,10,Ali Mansour,PG,185,LBN
+P_227610,11,Anton Bykov,C,198,KAZ
+P_227614,55,Askar Maidekin,C,203,KAZ
+P_227708,7,Poy Erram,C,207,PHI
+P_227712,17,Jaymar Perez,PG,188,PHI
+P_227719,21,Yuma Fujii,PG,178,JPN
+P_227846,9,Sami Bzai,SG,190,JOR
+P_228340,23,Abudushalamu Abudurexiti,PF,203,CHN
+P_228726,11,Flynn Cameron,PG,190,NZL
+P_228727,20,Takiula Fahrensohn,SG,201,NZL
+P_229059,21,Jonathan Arledge,C,206,LBN
+P_229611,5,Anthony Clemmons,PG,188,KAZ
+P_230458,10,Khalid M Abdel Gabar,PG,183,KSA
+P_230679,32,John Morgan Bohannon,C,211,JOR
+P_231203,6,Georgi Nazarian,PG,189,SYR
+P_231205,11,Jamil Saddir,PF,200,SYR
+P_231215,25,Ali Mezher,PG,182,LBN
+P_234943,20,Ali Shubayli,SF,190,KSA
+P_234983,34,Gerard Hadidian,C,202,LBN
+P_235385,23,Yousef Khayat,PF,203,LBN
+P_235387,3,Marc Khoueiry,SG,185,LBN
+P_235475,2,Elias Azrie,PG,185,SYR
+P_235505,71,Matin Aghajanpour,PF,198,IRI
+P_235507,3,Sina Vahedi,PG,185,IRI
+P_235799,4,Abraham Damar Grahita,SG,180,INA
+P_235800,33,Arki Dikania Wisnu,SF,187,INA
+P_235802,2,Hardianus Lakudu,PG,178,INA
+P_235803,10,Kevin Yonas Argadiba Sitorus,PF,195,INA
+P_235822,18,Shaun Geoffrey Chiu,C,203,PHI
+P_235828,11,Kai Zachary Sotto,C,216,PHI
+P_235878,19,Ehsan Dalirzahan,PG,186,IRI
+P_235899,28,Isaiah Murphy,SG,196,JPN
+P_236055,22,Marques Terrell  Bolden,C,208,INA
+P_237253,24,Junwei Ren,PF,200,CHN
+P_237254,12,Junfei Ren,C,205,CHN
+P_237257,4,Jordan Al-Dasuqi,PG,180,JOR
+P_237899,23,Sajjad Pazrofteh,PG,188,IRI
+P_237958,9,Leo Vendrame,PG,183,JPN
+P_238121,7,Muin Bek Hafeez,PG,189,IND
+P_239228,4,Kyle Reginaid Adnam,PG,186,AUS
+P_239297,1,Anzac Rissetto,C,202,NZL
+P_239585,13,Tzu-Kang Wang,PG,183,TPE
+P_239741,6,Wani Lodu Swaka Lo Buluk,PF,195,AUS
+P_239745,22,Luke Jacob Travers,PG,200,AUS
+P_239962,9,Vadim Chsherbak,PG,198,KAZ
+P_241436,6,Ashraf Alhendi,SF,190,JOR
+P_241542,28,Mahmoud Hazaymeh,C,206,JOR
+P_243473,9,Elie Chamoun,SG,189,LBN
+P_243770,21,Hashem  Abbaas,SF,190,JOR
+P_248079,8,Robert Bolick,PG,182,PHI
+P_248095,55,Abdulmalik Mohammednidal Ashoor,PG,173,KSA
+P_248100,3,Hesham Dhafer AlRasheed,PG,182,KSA
+P_248111,48,Saad Alsubaie,PG,184,KSA
+P_248180,17,Ali Jaber Hasan Jasim Kadhem,PG,185,BRN
+P_248185,77,Ahmed Bindayneh,PG,179,BRN
+P_248200,11,Mustafa Rashed,PG,177,BRN
+P_248202,6,Ali Rashed,PG,181,BRN
+P_248212,1,Mohamed Buallay,PG,190,BRN
+P_248279,24,Hayk Gyokchyan,PF,203,LBN
+P_248284,11,Naif  Althalabi,C,202,KSA
+P_248285,25,Osama  Albargawi,SG,188,KSA
+P_248286,12,Mohammed  Alsuwailem,C,208,KSA
+P_248389,14,Ayoub  Alhawsawi,PF,188,KSA
+P_248461,30,Jalal Agha Miri,C,202,IRI
+P_248774,34,Hugh Watanabe,C,207,JPN
+P_249136,16,Boqiao Jiao,C,210,CHN
+P_249341,12,Princepal Singh Singh,C,208,IND
+P_249384,7,Ai-Che Yu,PG,183,TPE
+P_249393,20,Sin-Kuan LIN,PF,193,TPE
+P_249422,10,Piter Girgoorian,SG,199,IRI
+P_249493,22,Amirhossein Yazarloo,PF,185,IRI
+P_249566,39,Keisei Tominaga,SG,188,JPN
+P_249570,33,Yuki Kawamura,PG,172,JPN
+P_249781,4,Anas Shaban,PG,177,SYR
+P_250101,5,Alexander Ducas,PG,199,AUS
+P_250614,5,Taylor Britt,PG,188,NZL
+P_250864,3,Ahmed Haji,PG,175,BRN
+P_250899,35,Thamer Mahmoud A Mohammed,PF,195,KSA
+P_250902,0,Juan Laurent Kokodiputra,SG,191,INA
+P_251854,1,jimmy Salem,PG,191,LBN
+P_252096,66,Rajeev Kumar,SG,190,IND
+P_252166,10,Arvind Kumar Muthu Krishnan,PG,187,IND
+P_252181,11,Seijin Mathew,PF,198,IND
+P_252195,17,Pratyanshu Tomar,PF,203,IND
+P_252197,13,Deepak Choudhary,SG,186,IND
+P_252198,3,Amarendra Nayak,PF,203,IND
+P_252201,15,Prashant Singh Rawat,PF,202,IND
+P_252284,14,Omar  Idelbi,SF,194,SYR
+P_252580,24,Tyrell Harrison,C,214,NZL
+P_252666,33,Carl Vincent Tamayo,PF,201,PHI
+P_252667,45,Kai Toews,PG,188,JPN
+P_253725,13,Kaleb Ramot Gemilang,SG,184,INA
+P_253799,11,Weize Jiang,PG,182,CHN
+P_254717,1,Yan Ting Lin,SG,184,TPE
+P_254719,7,Chia Hao Wei,PG,180,TPE
+P_254755,25,Cheng Lin,C,200,TPE
+P_255259,6,Ali Bagir Alhadar,PF,195,INA
+P_255276,27,Kelvin Sanjaya,C,200,INA
+P_257019,22,Craig Moller,PF,203,AUS
+P_257648,99,Musab Tariq M Kadi,PF,196,KSA
+P_257750,16,Wenbo Lu,PG,194,CHN
+P_258023,23,Robert Pan,C,202,KAZ
+P_258324,1,Takumi Saito,PG,172,JPN
+P_258864,3,Christopher Newsome,SG,188,PHI
+P_260606,21,Ben Gold,PF,208,NZL
+P_260736,0,Aziz Abdel Massih,PG,192,LBN
+P_261017,2,Alex Toohey,SF,201,AUS
+P_263114,77,Zhenlin Zhang,PF,205,CHN
+P_265287,21,Daniel Grida,SG,197,AUS
+P_266547,9,MOHAMMAD SALEH,SF,184,KSA
+P_268353,28,Karl Kevin Quiambao,PF,193,PHI
+P_270048,99,Lokendra Singh,SG,194,IND
+P_270052,19,Pranav Prince ,SF,200,IND
+P_270053,11,Manoj Belur Manjunatha,SG,199,IND
+P_270357,0,Alexander McNaught,PG,182,NZL
+P_270900,46,Hazim Bader A Aljohar,PG,192,KSA
+P_271242,4,Tyrese Proctor,PG,193,AUS
+P_272298,3,Bing Sheng Lin,PG,186,TPE
+P_272564,44,John Alexander Koh Flippin,SG,188,JPN
+P_273030,5,Freddy Ibrahim,PG,190,JOR
+P_273149,11,Aki Chambers,SF,191,JPN
+P_274175,17,Yutaroh Suda,SG,190,JPN
+P_276177,99,Alwatheq Ali Sidahmed Alhassan,PF,199,BRN
+P_279494,24,Amer Alsati,PF,203,SYR
+P_281897,11,Frederick Jr Tungcab,SG,192,PHI
+P_282150,18,Mingzhen Zhu,PF,195,CHN
+P_282327,16,Takuma Sato,SF,197,JPN
+P_282458,3,Zakria  Alhusain,SG,187,SYR
+P_282528,5,Harsh Dagar,SG,189,IND
+P_282543,14,Karim Raphael Ezzedine,PF,206,LBN
+P_282602,1,Sahaij Pratap Singh Sekhon,PG,194,IND
+P_282794,30,Keita Imamura,SG,191,JPN
+P_282810,8,Vladimir Ivanov,C,208,KAZ
+P_282841,1,Derrick Michael Xzavierro,C,203,INA
+P_282904,19,Yongxi Cui,SF,199,CHN
+P_282971,17,Francis Lopez,PF,208,PHI
+P_283399,1,Fanbo Zeng,PF,207,CHN
+P_283622,16,Ren Kanechika,SF,196,JPN
+P_284659,15,Jordan Hunt,C,206,NZL
+P_289392,6,Sergio El Darwich,SG,194,LBN
+P_289563,22,Mason Peatling,SF,203,AUS
+P_289593,36,Aryan -,C,218,IND
+P_289599,23,William Navarro,C,199,PHI
+P_289600,2,Calvin John Oftana,PF,195,PHI
+P_289687,71,Widyanta Putra Teja,PG,187,INA
+P_289695,3,Brandon van Dorn Jawato,SF,193,INA
+P_289710,20,Govinda Julian Saputra,SG,195,INA
+P_290241,13,Akoldah Gak,C,210,AUS
+P_291014,6,Jaylin Galloway,PG,197,AUS
+P_291148,57,Siao Jin Wu,PG,186,TPE
+P_292580,70,Vivek Vinubhai Goti,C,210,IND
+P_292624,69,Chun Hsiang Lu,PG,188,TPE
+P_292630,45,Piyush Meena,C,206,IND
+P_292690,14,Wena David Okwera,PF,203,AUS
+P_293039,20,Bol Dengdit,PF,210,AUS
+P_296290,3,Rhon Jhay Abarrientos,PG,181,PHI
+P_296291,31,Tzaddy Rangel,PF,201,PHI
+P_300961,9,Naser Almusawi,PF,190,BRN
+P_301494,88,Amir Jabbar Hinton,SG,198,SYR
+P_305805,1,Omar Jamaleddine,PG,195,LBN
+P_306288,24,Matthew Aquino,C,205,JPN
+P_307647,23,Abdulrahman Ismail Z Fallata,SG,183,KSA
+P_307777,15,Nader Naser,PF,200,BRN
+P_308489,12,Naim Rabay,C,205,LBN
+P_308495,12,Christophe Khalil,PF,192,LBN
+P_308525,20,Ryo Terashima,PG,179,JPN
+P_308532,99,David Hermes,PF,208,SYR
+P_308611,99,Koya Kawamata,C,202,JPN
+P_308993,77,Yuta Okada,SG,189,JPN
+P_308997,15,Ryuichi Kishimoto,PG,176,JPN
+P_311717,76,Alexandr Orazbekov,PG,178,KAZ
+P_312532,1,Nicholas Marshall,PG,190,AUS
+P_312549,18,Harendra Singh Tomer,SG,186,IND
+P_312696,6,Chun Chiang,PF,193,TPE
+P_312700,8,Lu Hsiang Wang,PG,188,TPE
+P_312720,15,Kirell Montalbo,PG,178,PHI
+P_312743,10,Tzu Wei Lin,PG,188,TPE
+P_312744,5,Yao Cheng Pai,PG,183,TPE
+P_312980,4,Fadi Nader George Qarmash,PG,180,JOR
+P_314913,9,Rory Hawke,PG,194,AUS
+P_315952,13,Jamie James Malonzo,SG,201,PHI
+P_317266,9,Kushal Singh,PF,195,IND
+P_319315,91,Hirotaka Yoshii,SF,196,JPN
+P_319413,10,Rhenz Joseph Abando,SG,188,PHI
+P_319524,30,Samuel McDaniel,SG,198,AUS
+P_319600,99,Lalit -,PG,188,IND
+P_319664,2,Hasan Aliakbari,C,0,IRI
+P_319696,26,Junlong Zhu,PG,198,CHN
+P_319729,9,Isshak Oubeid,PG,183,SYR
+P_319780,18,I Ping Wu,C,200,TPE
+P_319923,9,Nader Ali Mohamed Ghuloom Abdulrahim,PF,183,BRN
+P_320231,21,Mason Francis Amos,C,201,PHI
+P_320389,8,Mohamed Qambar,PF,196,BRN
+P_321077,5,Roosevelt Terrence Adams ,SF,196,PHI
+P_321935,33,Caden Chudri Zuheir Alnajdawi,PF,205,JOR
+P_322814,1,Magzhan Sarsengaliyev,PG,0,KAZ
+P_323550,24,Ulhas  Koravi Satyanarayan,PG,185,IND
+P_323552,13,Abhishek Gowda Chikkabelavangala Ramakrishnaiah,PG,186,IND
+P_323915,7,Walter Brown,PG,190,NZL
+P_330801,18,Jean Marc Jarrouj,PG,195,LBN
+P_338054,24,Joshua Hawkinson,C,208,JPN
+P_338140,88,Mohammed Khalid A Kadi,PF,192,KSA
